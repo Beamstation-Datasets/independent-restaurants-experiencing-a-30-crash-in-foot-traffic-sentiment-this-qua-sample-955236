@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Food and Drink",
+  "config_category": "expansion",
+  "config_description": "--Distressed Venues with Verified Decline--\n\nEstablished, well-reviewed restaurants, bars, and cafes now experiencing a sharp and confirmed drop in Transaction Velocity & Customer Sentiment.\n\nThese are previously high-performing venues where the 360-day sentiment was strong, but 90-day sentiment has crashed by 30%+.\n\nThat's a leading indicator of operational trouble, ownership fatigue, or market-ready distress.\n\nEvery listing is an independent hospitality and food & beverage location (no nation-wide chains), confirmed active with 100+ total reviews and an \"Active Heartbeat\" signal within the last 90 days.",
+  "config_name": "Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Pennsylvania",
+  "export_job_id": "01a64305-0069-4eeb-a0f5-97e422ef30f9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 955236,
+  "location_name": "Pennsylvania",
+  "location_type": "state",
+  "repo_name": "independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-955236",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/955236/beamstation_955236_food_and_drink-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 121,
+  "sample_sha256": "753f3149ad06d5c83ab6342a4c21b2504c806f05e8f4ca95aac4463da840af9b",
+  "sample_size_bytes": 462015,
+  "total_records": 1215,
+  "updated_at": "2026-04-09T18:21:29.651005+00:00"
+}
